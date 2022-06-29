@@ -1,0 +1,9 @@
+<androidx.viewpager2.widget.ViewPager2
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/crime_view_pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+</androidx.viewpager2.widget.ViewPager2>
+
+
